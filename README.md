@@ -3,7 +3,7 @@
 currently works with typescript import system, soon maybe be will be improved to ES imports.  
 
 Installation:  
-`$ npm install -g imports-cheker`
+`$ npm install -g imports-checker`
 
 Usage:  
-`$ imports-cheker <path to folder>`
+`$ imports-checker <path to folder>`
