@@ -1,17 +1,18 @@
 {
-  "name": "imports-checker",
-  "version": "1.0.0",
-  "description": "",
-  "bin": {
-      "imports-checker": "bin/imports-checker.js"
-  },
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "globby": "^6.1.0"
-  }
+    "name": "imports-checker",
+    "version": "1.0.0",
+    "description": "",
+    "bin": {
+        "imports-checker": "bin/imports-checker.js"
+    },
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^2.1.0",
+        "globby": "^6.1.0"
+    }
 }
