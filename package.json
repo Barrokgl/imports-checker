@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-      "imports-cheker": "bin/imports-cheker.js"
+      "imports-checker": "bin/imports-checker.js"
   },
   "main": "lib/index.js",
   "scripts": {
