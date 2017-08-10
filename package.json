@@ -1,7 +1,7 @@
 {
     "name": "imports-checker",
-    "version": "1.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Checks imports across your project",
     "bin": {
         "imports-checker": "bin/imports-checker.js"
     },
@@ -9,10 +9,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "barrokgl@gmail.com",
     "license": "ISC",
     "dependencies": {
-        "chalk": "^2.1.0",
-        "globby": "^6.1.0"
+        "chalk": "2.1.0",
+        "globby": "6.1.0"
     }
 }
