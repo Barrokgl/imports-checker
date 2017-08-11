@@ -2,6 +2,14 @@
     "name": "imports-checker",
     "version": "0.0.1",
     "description": "Checks imports across your project",
+    "keywords": ["imports", "typescript"],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Barrokgl/imports-checker.git"
+    },
+    "engines": {
+        "node": "6"
+    },
     "bin": {
         "imports-checker": "bin/imports-checker.js"
     },
